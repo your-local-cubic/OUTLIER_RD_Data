@@ -1,0 +1,11 @@
+{
+  "game_info": {
+    "currentIntro": "0.1.0",
+    "warnings": [
+      "text1",
+      "text2",
+      "text3"
+    ],
+    "maintenance": false
+  }
+}
